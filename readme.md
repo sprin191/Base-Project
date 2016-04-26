@@ -1,5 +1,5 @@
 #List of Files
-##HTML file
-##CSS file
-##Javascript file
+##HTML
+##CSS
+##Javascript
 ##Readme
